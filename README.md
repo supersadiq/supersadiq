@@ -1,4 +1,4 @@
-## Hi 👋, I'm SADIQ, This is my Alt Account
+## Hi 👋, I'm SADIQ. (This is my Alt Account)
 
 - I am an experimentalist, Tech and Open Source enthusiast from India
 - Turning coffee into Code
@@ -32,11 +32,6 @@
 [![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)](#)
 
 ## Stats
-<p align="center">
-<a href="https://github.com/supersadiq/supersadiq">
-  <img align="center" height=156px width=400px src="https://github-readme-stats.vercel.app/api?username=supersadiq&show_icons=true&theme=midnight-purple" />
-</a>
-
 <a href="https://github.com/Shubhamrawat5">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shubhamrawat5&theme=dark&exclude_repo=projects-and-projects,open-source-contribution" />
 </a>
