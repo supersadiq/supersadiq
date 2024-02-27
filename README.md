@@ -37,5 +37,5 @@
   <img align="center" height=156px width=400px src="https://github-readme-stats.vercel.app/api?username=supersadiq&show_icons=true&theme=midnight-purple" />
 </a>
 <a href="github.com/supersadiq/supersadiq">
-  <img align="center" height=157px width=400px src="https://github-readme-stats.vercel.app/api/top-langs/?username=karthik1896&theme=midnight-purple&layout=compact" />
+  <img align="center" height=157px width=400px src="https://github-readme-stats.vercel.app/api/top-langs/?username=supersadiq&theme=midnight-purple&layout=compact" />
 </a></p>
