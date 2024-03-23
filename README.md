@@ -1,12 +1,10 @@
-## Hi 👋, I'm SADIQ. (This is my Alt Account)
+## Hi 👋, I'm SADIQ. 
+(This is my temp. account)
 
 - I am an experimentalist, Tech and Open Source enthusiast from India
 - Turning coffee into Code
 
 ### Talk is cheap, Show me the code. - Linus Torvalds
-
-- 💬 Ask me about ** Java, C#, MySQL and Android Development**
-- 📫 How to reach me **oryanpax@hi2.in** 
 
 ### Languages
 [![C# Badge](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)](#)
@@ -33,5 +31,5 @@
 
 ## Stats
 <a href="https://github.com/supersadiq">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=supersadiq&theme=dark&exclude_repo=projects-and-projects,open-source-contribution" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shubhamrawat5&theme=dark&exclude_repo=projects-and-projects,open-source-contribution" />
 </a>
