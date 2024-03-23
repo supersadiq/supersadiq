@@ -1,4 +1,4 @@
-**ALL REPOs ARE PRIVATE DUE TO PRIVACY ISSUES**
+**ALL REPOs ARE PRIVATE DUE TO PRIVACY REASONS**
 
 ## INTRO- 👋 I'm SADIQ. 
 _(This is my temp. account)_
