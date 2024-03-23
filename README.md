@@ -32,6 +32,6 @@
 [![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)](#)
 
 ## Stats
-<a href="https://github.com/Shubhamrawat5">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shubhamrawat5&theme=dark&exclude_repo=projects-and-projects,open-source-contribution" />
+<a href="https://github.com/supersadiq">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=supersadiq&theme=dark&exclude_repo=projects-and-projects,open-source-contribution" />
 </a>
