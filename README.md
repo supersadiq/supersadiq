@@ -1,5 +1,7 @@
-## Hi 👋, I'm SADIQ. 
-(This is my temp. account)
+**ALL REPOs ARE PRIVATE DUE TO PRIVACY ISSUES**
+
+## INTRO- 👋 I'm SADIQ. 
+_(This is my temp. account)_
 
 - I am an experimentalist, Tech and Open Source enthusiast from India
 - Turning coffee into Code
